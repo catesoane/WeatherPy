@@ -15,8 +15,8 @@ import requests
 
 ```python
 # Google AIP key / Open Weather API key
-gkey = "AIzaSyDJLIZeQsZvl9JyfqB6u6FW6-U9n41RY1k"
-wkey = "dadcd19c1e6e63f5f672fc2085e24ef7"
+gkey = "INSERT GKEY"
+wkey = "INSERT WKEY"
 ```
 
 
